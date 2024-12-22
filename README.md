@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/80a54a22-cd15-4f62-a90a-b234d1d6db9a)
+![image](https://github.com/user-attachments/assets/2aa3dc48-4c7a-4dab-a665-da10e2ec56fe)
+
 # Flappy Bird Clone 🎮🐦
 A simple clone of the classic Flappy Bird game, built using Unity. Fly the bird, dodge the pipes, and aim for a high score!
 
